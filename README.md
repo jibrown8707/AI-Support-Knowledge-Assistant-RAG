@@ -58,9 +58,6 @@ This project implements Retrieval-Augmented Generation (RAG) by connecting a Str
 #### Data Source Configuration
 ![Data Source Configuration](data-source-config.png)
 
-#### Knowledge Base Configuration
-![Knowledge Base Configuration](knowledge-base-config.png)
-
 ---
 
 ### Retrieval Configuration
