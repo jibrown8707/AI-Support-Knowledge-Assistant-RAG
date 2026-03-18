@@ -37,3 +37,46 @@ This project implements Retrieval-Augmented Generation (RAG) by connecting a Str
 
 ### Example Response: Account Security
 ![Account Security](ai-support-knowledge-assistant-qa-account-security.png)
+
+## AWS Setup (How It Was Built)
+
+### Data Preparation
+
+#### S3 File Upload
+![S3 Upload](s3-files-upload.png)
+
+#### Indexed Documents
+![Indexed Documents](indexed-documents.png)
+
+---
+
+### Knowledge Base Setup
+
+#### Knowledge Base Overview
+![Knowledge Base Overview](knowledge-base-overview.png)
+
+#### Data Source Configuration
+![Data Source Configuration](data-source-config.png)
+
+#### Knowledge Base Configuration
+![Knowledge Base Configuration](knowledge-base-config.png)
+
+---
+
+### Retrieval Configuration
+
+#### Embeddings Configuration
+![Embeddings Configuration](embeddings-config.png)
+
+#### Vector Store Setup
+![Vector Store](vector-store.png)
+
+#### Model Selection
+![Model Selection](model-selection.png)
+
+---
+
+### Testing
+
+#### Retrieval Test Output
+![Retrieval Test](retrieval-test-output.png)
