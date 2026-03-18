@@ -18,12 +18,13 @@ This project implements Retrieval-Augmented Generation (RAG) by connecting a Str
 - AWS Bedrock
 - boto3
 
-How It Works
-    1.    User enters a question in the Streamlit app
-    2.    The app sends the request to Amazon Bedrock
-    3.    The Knowledge Base retrieves relevant information
-    4.    The model generates a response
-    5.    The answer is displayed to the user
+## How It Works
+
+1. User enters a question in the Streamlit app
+2. The app sends the request to Amazon Bedrock
+3. The Knowledge Base retrieves relevant information
+4. The model generates a response
+5. The answer is displayed to the user
 
 
 ##Screenshots 
