@@ -30,10 +30,10 @@ This project implements Retrieval-Augmented Generation (RAG) by connecting a Str
 ##Screenshots 
 
 ### Example Response: Password Reset
-![Password Reset](images/ai-support-knowledge-assistant-qa-password-reset.png)
+![Password Reset](ai-support-knowledge-assistant-qa-password-reset.png)
 
 ### Example Response: Payment Issue
-![Payment Issue](images/ai-support-knowledge-assistant-qa-payment-issue.png)
+![Payment Issue](ai-support-knowledge-assistant-qa-payment-issue.png)
 
 ### Example Response: Account Security
-![Account Security](images/ai-support-knowledge-assistant-qa-account-security.png)
+![Account Security](ai-support-knowledge-assistant-qa-account-security.png)
